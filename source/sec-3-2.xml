@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="S-3-2">
+  <title>
+    بەشی دووهەم لقی سيهەم
+  </title>
+  <exercise>
+  <title> 
+پرسیاری ريکخراو
+</title>
+  <introduction>
+    <p>
+هەڵبستە بە پيدانی ئەم جۆرە لە سەرنجانە بە قوتابیان
+    </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p>
+        یەکەم هەنگاو ئەمە بکە
+      </p>
+    </statement>
+    <hint>
+      <p>
+       یەک تۆز یارمەتی
+      </p>
+    </hint>
+     <answer>
+      <p>
+        تۆزیکی تر یارمەتی
+      </p>
+     </answer>
+    <solution>
+      <p>
+لێرەدا بە تەواوەتی هەموو پرسیارەکان شیکاردەکەین .
+      </p>
+    </solution>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        دووهەم هەنگاو بۆ شیکارکردن بریتیەە لەمە.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        answer
+      </p>
+    </answer>
+  </task>
+
+  <conclusion>
+    <p>
+      تەواو بووین هەڵدەستین بە کۆکردنەوەی بیرکردنەوەمان
+    </p>
+  </conclusion>
+
+</exercise>
+
+<p>
+ لە خوارەوە پێناسەی تەواوکاری دەکەین، کە ڕاستەوخۆ لەسەر ئامانج بنیاتنراوە:
+ <m>\displaystyle \int f(x) dx= lim_{n \rightarrow \infty} \sum_{i=0}^{n} f(x_i)\Delta x_i</m>
+</p>
+
+<exercise label="multiple-choice-not-randomized">
+  <title>
+  پرسیاری هەڵبژاردن، نه‌ ڕه‌ندۆمه‌ندراو، تەنها یەک وەڵامی ڕاستی هەیە
+  Multiple-Choice, Not Randomized, One Answer
+  </title>
+  <idx>خاڵی وەستان</idx>
+  <statement>
+    <p>
+      ئایا خاڵی وەستاندن لە ترافیکدا چ رەنگێکە؟
+    </p>
+  </statement>
+  <choices>
+  <choice>
+  <statement>
+    <p>
+      سەوز
+    </p>
+  </statement>
+  <feedback>
+    <p>
+      سەوز واتە
+      <q>go!</q>.
+    </p>
+  </feedback>
+  </choice>
+  <choice correct="yes">
+  <statement>
+    <p>
+     سور
+    </p>
+  </statement>
+  <feedback>
+    <p>
+بە گشتی ڕەنگی سوور بەکاردیت بۆ هۆشیارکدنەوە لە ڕوداوی مەترسیدار    </p>
+  </feedback>
+  </choice>
+  <choice>
+  <statement>
+    <p>
+      سپی
+    </p>
+  </statement>
+  <feedback>
+    <p>
+      رەنگی سپی بە ئاسانی نابینرێت
+    </p>
+  </feedback>
+  </choice>
+  </choices>
+  <hint>
+    <p>
+      What did you see last time you went driving?
+    </p>
+  </hint>
+  <hint>
+    <p>
+      Maybe go out for a drive?
+    </p>
+  </hint>
+</exercise>
+</section>

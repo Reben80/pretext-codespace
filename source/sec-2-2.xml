@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="S-2-2">
+  <title>
+   بەشی دووهەم لقی دووهەم      
+  </title>
+ <p>
+  <definition> 
+    
+    یه‌كبه‌دوای یه‌كی فیبانۆشی (fibonacci sequence) بریتیه‌ له‌ زنجیره‌یه‌ك له‌ ژماره‌
+     كه‌ هه‌ر ژماره‌یه‌ك له‌م زنجیره‌یه‌ ده‌كاته‌ كۆی 
+    دوو ژماره‌كه‌ی پێشخۆی.. له‌خواره‌وه‌ ده‌یه‌كه‌مین
+     دانه‌كانی ئه‌م یه‌كله‌دوای یه‌كه‌ ده‌نووسین:-
+  </definition>
+ </p>
+
+ <figure>
+  <caption> هێڵکاری نەخشەی <m>ln(x^2+5)-3</m></caption>
+  <interactive xml:id="desmos-natural-log" desmos="ttox1bvxku" width="70%" aspect="2:3" />
+</figure>
+
+<exercise label="vector-space-dimension">
+  <title>True/False</title>
+  <idx>vector space</idx>
+  <statement correct="no">
+    <p>
+      Every vector space has finite dimension.
+    </p>
+  </statement>
+  <feedback>
+    <p>
+      The vector space of all polynomials with finite degree has a basis,
+      <m>B = \{1,x,x^2,x^3,\dots\}</m>, which is infinte.
+    </p>
+  </feedback>
+  <hint>
+    <p>
+      <m>P_n</m>, the vector space of polynomials with degree at most <m>n</m>,
+      has dimension <m>n+1</m> by <xref ref="theorem-FTC" />. [Cross-reference is just a demo,
+      content is not relevant.] What happens if we relax the defintion and remove the parameter <m>n</m>?
+    </p>
+  </hint>
+</exercise>
+</section>
