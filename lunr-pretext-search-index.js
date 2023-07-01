@@ -79,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "بەش",
   "number": "2.2",
   "title": "بەشی دووهەم لقی دووهەم",
-  "body": " بەشی دووهەم لقی دووهەم   یه‌كبه‌دوای یه‌كی فیبانۆشی (fibonacci sequence) بریتیه‌ له‌ زنجیره‌یه‌ك له‌ ژماره‌ كه‌ هه‌ر ژماره‌یه‌ك له‌م زنجیره‌یه‌ ده‌كاته‌ كۆی دوو ژماره‌كه‌ی پێشخۆی.. له‌خواره‌وه‌ ده‌یه‌كه‌مین دانه‌كانی ئه‌م یه‌كله‌دوای یه‌كه‌ ده‌نووسین:-    هێڵکاری نەخشەی    True\/False vector space  Every vector space has finite dimension.   The vector space of all polynomials with finite degree has a basis, , which is infinte.    , the vector space of polynomials with degree at most , has dimension by . [Cross-reference is just a demo, content is not relevant.] What happens if we relax the defintion and remove the parameter ?   "
+  "body": " بەشی دووهەم لقی دووهەم   یه‌كبه‌دوای یه‌كی فیبانۆشی (fibonacci sequence) بریتیه‌ له‌ زنجیره‌یه‌ك له‌ ژماره‌ كه‌ هه‌ر ژماره‌یه‌ك له‌م زنجیره‌یه‌ ده‌كاته‌ كۆی دوو ژماره‌كه‌ی پێشخۆی.. له‌خواره‌وه‌ ده‌یه‌كه‌مین دانه‌كانی ئه‌م یه‌كله‌دوای یه‌كه‌ ده‌نووسین:-    هێڵکاری نەخشەی    ڕاست و چەوت سپەیسی ڕادەدارەکان  هەموو سپەیسە ڕادەدارەکان رەهەندەکانیان کۆتایە.   سپەیسی ڕادەدارەکان، رەهەندەکەیان ناکۆتایە , کە دیارە ناکۆتایە    , the vector space of polynomials with degree at most , has dimension by . [Cross-reference is just a demo, content is not relevant.] What happens if we relax the defintion and remove the parameter ?   "
 },
 {
   "id": "definition-4",
@@ -105,8 +105,8 @@ var ptx_lunr_docs = [
   "url": "S-2-2.html#vector-space-dimension",
   "type": "خاڵی پشکنین",
   "number": "2.2.3",
-  "title": "True\/False.",
-  "body": "True\/False vector space  Every vector space has finite dimension.   The vector space of all polynomials with finite degree has a basis, , which is infinte.    , the vector space of polynomials with degree at most , has dimension by . [Cross-reference is just a demo, content is not relevant.] What happens if we relax the defintion and remove the parameter ?  "
+  "title": "ڕاست و چەوت.",
+  "body": "ڕاست و چەوت سپەیسی ڕادەدارەکان  هەموو سپەیسە ڕادەدارەکان رەهەندەکانیان کۆتایە.   سپەیسی ڕادەدارەکان، رەهەندەکەیان ناکۆتایە , کە دیارە ناکۆتایە    , the vector space of polynomials with degree at most , has dimension by . [Cross-reference is just a demo, content is not relevant.] What happens if we relax the defintion and remove the parameter ?  "
 },
 {
   "id": "S-3-1",
