@@ -1,1 +1,1 @@
-{"source/main.ptx": ["my-great-book", "frontmatter", "chapter-title", "section-title", "section-2", "backmatter"]}
+{"source/main.ptx": ["my-great-book", "frontmatter", "backmatter"], "source/chapter1.ptx": ["C-1"], "source/sec-1-1.xml": ["S-1-1"], "source/sec-1-2.xml": ["S-1-2"], "source/chapter2.ptx": ["C-2"], "source/sec-2-1.xml": ["S-2-1"], "source/sec-2-2.xml": ["S-2-2", "desmos-natural-log"], "source/chapter3.ptx": ["C-3"], "source/sec-3-1.xml": ["S-3-1"], "source/sec-3-2.xml": ["S-3-2"]}
