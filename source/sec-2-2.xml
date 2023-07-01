@@ -20,17 +20,18 @@
 </figure>
 
 <exercise label="vector-space-dimension">
-  <title>True/False</title>
-  <idx>vector space</idx>
+  <title>ڕاست و چەوت</title>
+  <idx>سپەیسی ڕادەدارەکان</idx>
   <statement correct="no">
     <p>
-      Every vector space has finite dimension.
+     هەموو سپەیسە ڕادەدارەکان رەهەندەکانیان کۆتایە.
     </p>
   </statement>
   <feedback>
     <p>
-      The vector space of all polynomials with finite degree has a basis,
-      <m>B = \{1,x,x^2,x^3,\dots\}</m>, which is infinte.
+    سپەیسی ڕادەدارەکان، رەهەندەکەیان ناکۆتایە
+      <m>B = \{1,x,x^2,x^3,\dots\}</m>, 
+      کە دیارە ناکۆتایە
     </p>
   </feedback>
   <hint>
