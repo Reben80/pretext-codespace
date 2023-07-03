@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This repository is dedicated to the development and implementation of PreTeXt for Kurdish Sorani, a Right-to-Left (RTL) language. PreTeXt is a markup language for writing mathematical and scientific textbooks, and while it was initially designed for Left-to-Right (LTR) languages, PreTeXt community are working on modifying it to accommodate RTL languages for Kurdish which will be useful for other RTL language too. My main goal here is provide sample that serve as a feedback so PreTeXt developers see progress.  
+This repository is a testament to the ongoing effort of adapting PreTeXt, a markup language typically used for mathematical and scientific textbooks, for Kurdish Sorani, a Right-to-Left (RTL) language. The PreTeXt community is now working to extend its support to RTL languages, starting with Kurdish Sorani. The examples provided in this repository aim to serve as a constructive feedback mechanism, allowing PreTeXt developers to monitor and enhance their progress.
+
 
 ## Content of this Repository
 
@@ -11,9 +12,5 @@ This repository contains samples of Kurdish Sorani math writing that utilize Pre
 
 
 ## Contact
-
-If you have question about this template you can contact me directly. 
-
-
 
 Visit <https://pretextbook.org/documentation.html> to learn more.
